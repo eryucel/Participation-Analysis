@@ -7,19 +7,19 @@
 
 Toplamda oluşan etkileşim verileri sayesinde herhangi bir ders için katılım yüzdesi elde edilir. Veriler analiz edilir ve grafiklerle kullanıcıya sunulur.
 
-![Use-case,Devam,Katılım,Ders,Analiz](https://github.com/HakanEryucel/Ders-Analiz/blob/master/Screenshots/UC.png)
+![Use-case,Devam,Katılım,Ders,Analiz](https://github.com/Hakan-er/Ders-Analiz/blob/master/ScreenShots/UC.png)
 
 ### Derse Katılım Analizi
 
-![Grafik,Devam,Katılım,Ders,Analiz](https://github.com/HakanEryucel/Ders-Analiz/blob/master/Screenshots/Dersler.png)
+![Grafik,Devam,Katılım,Ders,Analiz](https://github.com/Hakan-er/Ders-Analiz/blob/master/ScreenShots/Dersler.png)
 
 ### Bir Derse Öğretim Üyelerine göre Katılım Analizi
 
-![Grafik,Devam,Katılım,Ders,Analiz](https://github.com/HakanEryucel/Ders-Analiz/blob/master/Screenshots/Öğretim.png)
+![Grafik,Devam,Katılım,Ders,Analiz](https://github.com/Hakan-er/Ders-Analiz/blob/master/ScreenShots/Öğretim.png)
 
 ### Bir Derse Ders Saatlerine göre Katılım Analizi
 
-![Grafik,Devam,Katılım,Ders,Analiz](https://github.com/HakanEryucel/Ders-Analiz/blob/master/Screenshots/Saat.png)
+![Grafik,Devam,Katılım,Ders,Analiz](https://github.com/Hakan-er/Ders-Analiz/blob/master/ScreenShots/Saat.png)
 
 
 ### Veri Girişi
@@ -29,12 +29,12 @@ Ders, öğretim üyesi, derslik ve tarih eşlenerek ders açılabilir. Açılan 
 
 Sınıflardaki etkileşimler açılmış bir ders var ise veritabanında otomatik olarak eşlenir. Girilen sınıfta o tarih ve saatte açılmış bir ders yok ise analize etki etmez.
 
-![Tablo,Devam,Katılım,Ders,Analiz](https://github.com/HakanEryucel/Ders-Analiz/blob/master/Screenshots/DersTablo.png)
+![Tablo,Devam,Katılım,Ders,Analiz](https://github.com/Hakan-er/Ders-Analiz/blob/master/ScreenShots/DersTablo.png)
 
 ### Kullanılan Veritabanı Tasarımı
 
-![Varlık-bağıntı,Devam,Katılım,Ders,Analiz](https://github.com/HakanEryucel/Ders-Analiz/blob/master/Screenshots/VB.png)
-![İş-kuralları,Devam,Katılım,Ders,Analiz](https://github.com/HakanEryucel/Ders-Analiz/blob/master/Screenshots/İşKuralları.png)
-![İlişkisel-Şema,Devam,Katılım,Ders,Analiz](https://github.com/HakanEryucel/Ders-Analiz/blob/master/Screenshots/İlişkiselŞema.png)
+![Varlık-bağıntı,Devam,Katılım,Ders,Analiz](https://github.com/Hakan-er/Ders-Analiz/blob/master/ScreenShots/VB.png)
+![İş-kuralları,Devam,Katılım,Ders,Analiz](https://github.com/Hakan-er/Ders-Analiz/blob/master/ScreenShots/İşKuralları.png)
+![İlişkisel-Şema,Devam,Katılım,Ders,Analiz](https://github.com/Hakan-er/Ders-Analiz/blob/master/ScreenShots/İlişkiselŞema.png)
 
 # Bu web sitesi www.github.com/melihguler ile birlikte geliştirilmiştir.
