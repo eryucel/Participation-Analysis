@@ -9,6 +9,7 @@ Toplamda oluşan etkileşim verileri sayesinde herhangi bir ders için katılım
 
 ![Use-case,Devam,Katılım,Ders,Analiz](https://github.com/Hakan-er/Ders-Analiz/blob/master/ScreenShots/UC.png)
 
+
 ### Derse Katılım Analizi
 
 ![Grafik,Devam,Katılım,Ders,Analiz](https://github.com/Hakan-er/Ders-Analiz/blob/master/ScreenShots/Dersler.png)
@@ -22,7 +23,8 @@ Toplamda oluşan etkileşim verileri sayesinde herhangi bir ders için katılım
 ![Grafik,Devam,Katılım,Ders,Analiz](https://github.com/Hakan-er/Ders-Analiz/blob/master/ScreenShots/Saat.png)
 
 
-### Veri Girişi
+
+## Veri Girişi
 Bir fakültedeki bölüm için öğretim üyeleri, derslikler ve dersler oluşturulabilir ve düzenlenebilir.
 
 Ders, öğretim üyesi, derslik ve tarih eşlenerek ders açılabilir. Açılan derse girmesi gereken öğrenci sayıları belirlenebilir.
@@ -31,7 +33,7 @@ Sınıflardaki etkileşimler açılmış bir ders var ise veritabanında otomati
 
 ![Tablo,Devam,Katılım,Ders,Analiz](https://github.com/Hakan-er/Ders-Analiz/blob/master/ScreenShots/DersTablo.png)
 
-### Kullanılan Veritabanı Tasarımı
+## Kullanılan Veritabanı Tasarımı
 
 ![Varlık-bağıntı,Devam,Katılım,Ders,Analiz](https://github.com/Hakan-er/Ders-Analiz/blob/master/ScreenShots/VB.png)
 ![İş-kuralları,Devam,Katılım,Ders,Analiz](https://github.com/Hakan-er/Ders-Analiz/blob/master/ScreenShots/İşKuralları.png)
